@@ -26,4 +26,4 @@ Currently looking for a Front-End React/Next.js position.
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/ivanov-mikhail-803026255/
-- Email: your@email.com
+- Email: loadszz94@gmail.com
