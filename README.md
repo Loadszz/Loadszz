@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mykhailo 👋
 
-<!--
-**Loadszz/Loadszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer from Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+I build modern web applications using React, Next.js and TypeScript.  
+Currently looking for a Front-End React/Next.js position.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Tailwind CSS
+- Redux Toolkit
+- REST API
+- Git
+- HTML5 / CSS3 / SCSS
+
+## 🚀 Current Focus
+
+- Building production-ready React applications
+- Improving TypeScript skills
+- Learning modern Front-End architecture
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/ivanov-mikhail-803026255/
+- Email: your@email.com
